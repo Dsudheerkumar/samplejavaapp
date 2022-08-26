@@ -1,3 +1,3 @@
 Sample Java Applicaiton V3.3
 
-This is new test
+This is new test now
